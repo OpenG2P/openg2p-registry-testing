@@ -19,14 +19,14 @@ const (
 	OPENSEARCH_PORT     = 9201
 	OPENSEARCH_USER     = "admin"
 	OPENSEARCH_PASSWORD = "password"
-	INDEX_NAME          = "loadtest_socialregistry.public.res_partner"
+	INDEX_NAME          = "loadtest_registry.public.res_partner"
 
 	// PostgreSQL configuration
 	PG_HOST     = "localhost"
 	PG_PORT     = 5432
-	PG_USER     = "socialregistryuser"
+	PG_USER     = "registryuser"
 	PG_PASSWORD = "password"
-	PG_DATABASE = "socialregistrydb"
+	PG_DATABASE = "registrydb"
 
 	// Chunk size for bulk operations
 	CHUNK_SIZE = 10000 // Set chunk size to 10,000
