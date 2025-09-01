@@ -23,8 +23,8 @@ const (
 
 // Database connection settings
 const (
-	dbname   = "socialregistrydb"
-	user     = "socialregistryuser"
+	dbname   = "registrydb"
+	user     = "registryuser"
 	password = "xwfJhfI9tL"
 	host     = "172.29.8.235"
 	port     = "5432"
