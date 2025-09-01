@@ -15,9 +15,9 @@ func main() {
 	const (
 		host     = "172.29.8.235"
 		port     = 5432
-		user     = "socialregistryuser"
+		user     = "registryuser"
 		password = "password"
-		dbname   = "socialregistrydb"
+		dbname   = "registrydb"
 	)
 
 	// Build the connection string
