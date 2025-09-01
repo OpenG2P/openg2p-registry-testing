@@ -29,9 +29,9 @@ var CONFIG = map[string]DBConfig{
     "TARGET_DB": {
         Host:     "localhost",
         Port:     5432,
-        User:     "socialregistryuser",
+        User:     "registryuser",
         Password: "password",
-        Database: "socialregistrydb",
+        Database: "registrydb",
     },
 }
 
